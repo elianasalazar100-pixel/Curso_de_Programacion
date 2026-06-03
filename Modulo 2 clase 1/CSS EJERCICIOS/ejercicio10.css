@@ -1,0 +1,23 @@
+.titulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    right: -200px;
+    top: -300px
+
+    
+}
+
+body {
+    background-color: #FAD4D8;
+    font: 1em bold;
+    padding: 200px;
+    margin: 100px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.links {
+    display: flex;
+}
+

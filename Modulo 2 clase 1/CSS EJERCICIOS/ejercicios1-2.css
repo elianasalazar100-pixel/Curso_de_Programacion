@@ -1,0 +1,23 @@
+body{
+    font-size: 18px;
+
+}
+
+#titulo-principal{
+    color: #0056b3,
+
+}
+
+.parrafo-destacado{
+    font-weight:bold;
+    color: #555
+
+}
+
+.tarjeta-producto {
+  width: 300px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
