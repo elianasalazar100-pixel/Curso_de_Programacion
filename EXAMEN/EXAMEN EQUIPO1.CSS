@@ -1,0 +1,17 @@
+body {
+    background-color:burlywood
+}
+
+.barra {
+    display: flex;
+    position: relative;
+    position: absolute;
+
+}
+
+:hover {
+    cursor: pointer;
+}
+
+
+

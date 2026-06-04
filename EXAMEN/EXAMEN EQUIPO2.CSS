@@ -1,0 +1,17 @@
+:focus {
+    box-shadow: inset;
+}
+
+.inputs {
+    display: grid;
+}
+
+.input:invalid {
+  border: 2px solid #ff4d4f;
+  background-color: #fff2f2;
+}
+
+.input:valid {
+  border: 2px solid #52c41a;
+  background-color: #f6ffed;
+}

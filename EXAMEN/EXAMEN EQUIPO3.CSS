@@ -1,0 +1,7 @@
+.galeria {
+    column-count: 4;
+    column-gap: 2;
+    width: 100%;
+    break-inside: avoid;
+
+}

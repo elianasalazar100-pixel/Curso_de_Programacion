@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    grid-row: auto;
+    gap: 20%;
+}
+
+:hover {
+    cursor: pointer;
+}
+
+.lista1 {
+    list-style: none;
+    background-color: rgb(166, 166, 221);
+    
+}
+.lista1::after {
+    content: icon;
+}
+
+.lista2 {
+    list-style: none;
+}
+.lista2::after {
+    content: icon;
+}
+
+.lista3 {
+    list-style: none;
+}
+.lista3::after {
+    content: icon;
+}

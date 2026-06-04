@@ -1,0 +1,30 @@
+.tarjetas {
+    display: flex;
+}
+
+.listas1::before {
+    list-style: none;
+    content: icon;
+}
+
+.tarjeta2 {
+    background-color: rgb(146, 97, 134);
+    list-style: none;
+}
+
+.listas2::before {
+    content: icon;
+}
+
+.tarjeta2:hover {
+    transition: 0.3s ease;
+    transform: translateY(-800) ;
+}
+
+.listas3::before {
+    content: icon;
+}
+
+.tarjeta3 {
+    list-style: none;
+}
